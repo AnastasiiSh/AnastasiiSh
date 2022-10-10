@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi 👋, I'm Anastasia Shvetsova
+### DS, CV and AI Specialist
 
-<!--
-**AnastasiiSh/AnastasiiSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnastasiiSh" alt="AnastasiiSh" /> </p>
 
-Here are some ideas to get you started:
+- 👨‍💻 Not all of my projects are available at [dilaraozdemir](https://www.github.com/dilaraozdemir)
+- 💬 Ask me about Image Processing, Computer Vision, Object Detection, Machine Learning and Deep Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+ 
+   <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="40" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
+    <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="git" width="40" height="40"/> 
+
+</p>
+
+
+<!---
+## Stats
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilaraozdemir&layout=compact&hide=html" alt="dilaraozdemir" /></p>
 -->
+
+
+##  Contact
+[![](https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/anastasii1)
