@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnastasiiSh" alt="AnastasiiSh" /> </p>
 
-- 👨‍💻 Not all of my projects are available at [dilaraozdemir](https://www.github.com/dilaraozdemir)
+- 👨‍💻 Not all of my projects are available at [AnastasiiSh](https://www.github.com/AnastasiiSh)
 - 💬 Ask me about Image Processing, Computer Vision, Object Detection, Machine Learning and Deep Learning.
 
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
